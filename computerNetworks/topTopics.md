@@ -10,7 +10,7 @@ Along with topic name, I've also included link where you can read about it. Furt
 
 
 ### List of topics
-[ ] [What is OSI model and different layers of OSI model?](https://www.javatpoint.com/osi-model)
+- [x] [What is OSI model and different layers of OSI model?](https://www.javatpoint.com/osi-model)
 2. [HTTP and HTTPS?](https://www.cloudflare.com/learning/ssl/why-is-http-not-secure/)
 3. [VPN?](https://www.kaspersky.com/resource-center/definitions/what-is-a-vpn)
 4. [NAT?](https://www.geeksforgeeks.org/network-address-translation-nat/)
