@@ -10,7 +10,7 @@ Along with topic name, I've also included link where you can read about it. Do p
 
 
 ### List of topics
-1. [what is Operating system?](https://www.tutorialspoint.com/operating_system/os_overview.htm)
+- [x] [what is Operating system?](https://www.tutorialspoint.com/operating_system/os_overview.htm)
 2. [Types of OS?](https://www.geeksforgeeks.org/types-of-operating-systems/)
 3. [OS boot process?](https://www.geeksforgeeks.org/what-happens-when-we-turn-on-computer/) 
 4. [Process? process diagram?, stages of process execution?](https://www.tutorialspoint.com/operating_system/os_processes.htm)
